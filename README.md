@@ -39,3 +39,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+## 🚀
+
+Concluido meu curso de lógica pela Rockeseat, onde tive a oportunidade de cada vez aprender mais sobre o Front-End, recomendo!
